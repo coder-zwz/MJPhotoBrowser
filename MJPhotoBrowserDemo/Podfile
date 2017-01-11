@@ -1,0 +1,8 @@
+platform :ios, ‘8.0’
+
+target 'MJPhotoBrowserDemo' do
+
+pod 'SDWebImage', '~> 3.7.5'
+pod 'MBProgressHUD', '~> 1.0.0'
+
+end
