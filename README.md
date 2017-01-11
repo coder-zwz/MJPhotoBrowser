@@ -7,8 +7,8 @@
 ###5.由于MBProgressHUD和SDWebImage的升级导致部分警告的问题
 
 ###主要功能:
+![Image text](https://raw.githubusercontent.com/coder-zwz/MJPhotoBrowser/master/screenshots/Simulator0.png)
 ![Image text](https://raw.githubusercontent.com/coder-zwz/MJPhotoBrowser/master/screenshots/Simulator1.png)
-![Image text](https://raw.githubusercontent.com/coder-zwz/MJPhotoBrowser/master/screenshots/Simulator2.png)
 ####代码示例
 ```Objective-C
 
