@@ -5,3 +5,7 @@
 ###3.双击小图片手势冲突会闪动的问题 
 ###4.双击大图浏览图片根据手指位置计算zoomRect的调整 
 ###5.由于MBProgressHUD和SDWebImage的升级导致部分警告的问题
+
+###主要功能:
+![Image text](https://raw.githubusercontent.com/coder-zwz/MJPhotoBrowser/master/screenshots/Simulato1.png)
+![Image text](https://raw.githubusercontent.com/coder-zwz/MJPhotoBrowser/master/screenshots/Simulator2.png)
