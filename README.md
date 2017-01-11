@@ -8,5 +8,4 @@
 
 ###主要功能:
 ![Image text](https://raw.githubusercontent.com/coder-zwz/MJPhotoBrowser/master/screenshots/Simulator1.png)
-
 ![Image text](https://raw.githubusercontent.com/coder-zwz/MJPhotoBrowser/master/screenshots/Simulator2.png)
