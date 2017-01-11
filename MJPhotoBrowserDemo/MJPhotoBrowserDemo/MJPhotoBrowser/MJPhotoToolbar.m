@@ -37,7 +37,7 @@
     if (_photos.count > 1) {
         _indexLabel = [[UILabel alloc] init];
         _indexLabel.font = [UIFont boldSystemFontOfSize:20];
-        _indexLabel.frame = CGRectMake(0, 50, 320, 44);
+        _indexLabel.frame = CGRectMake(0, 50, [UIScreen mainScreen].bounds.size.width, 44);
         _indexLabel.backgroundColor = [UIColor clearColor];
         _indexLabel.textColor = [UIColor whiteColor];
         _indexLabel.textAlignment = NSTextAlignmentCenter;
@@ -56,7 +56,7 @@
     [self addSubview:_saveImageBtn];
     
     _textView = [[UITextView alloc] init];
-    [_textView setFrame:CGRectMake(0, 0, 320, 50)];
+    [_textView setFrame:CGRectMake(0, 0, [UIScreen mainScreen].bounds.size.width, 50)];
     _textView.backgroundColor = [UIColor clearColor];
     _textView.editable = NO;
     _textView.textAlignment = NSTextAlignmentLeft;
